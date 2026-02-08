@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-supabase
-python-dotenv
-flask
