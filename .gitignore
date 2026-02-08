@@ -1,0 +1,12 @@
+# Chaves e Segredos
+.env
+
+# Pastas de ambiente virtual do Python
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Arquivos do Replit
+.replit
+replit.nix
