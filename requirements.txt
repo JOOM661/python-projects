@@ -1,28 +1,22 @@
 # 🍕 Pizzaria Romeo Bot - Railway Compatible
-
 # 🔧 Core
 python-dotenv==1.0.0
 Flask==3.0.2
-
 # 🤖 Telegram Bot
 pyTelegramBotAPI==4.18.0
 telebot==0.0.5
-
 # 🗄️ Supabase (versões compatíveis)
 supabase==2.6.0
-postgrest-py==0.10.6  # Versão disponível no Railway
+postgrest-py==0.10.6
 gotrue==2.5.3
-realtime-py==0.2.2
+realtime-py==0.1.3
 storage3==0.6.0
-
 # 🌐 HTTP
 httpx==0.25.2
 httpcore==1.0.2
-
 # 📊 Utilities
 requests==2.31.0
 pytz==2023.3.post1
 pyjwt==2.8.0
-
 # 📝 Logging
 colorama==0.4.6
